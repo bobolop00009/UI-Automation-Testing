@@ -11,8 +11,13 @@ Test Result run via CLI:
 
 ![image](https://user-images.githubusercontent.com/124502981/221389501-3b7fcf25-8e89-419c-8cd3-a6cb4c0ad778.png)
 
-![image](https://user-images.githubusercontent.com/124502981/221389404-4bbb3b47-7ffc-4bca-aa05-d1d3e43dc295.png)
+Kategori
 
-![image](https://user-images.githubusercontent.com/124502981/221389431-cc0d5e7a-f486-4087-b59a-4da61391285c.png)
+![image](https://user-images.githubusercontent.com/124502981/221390274-5513983b-b58d-4d98-b36e-e89a888f84f9.png)
 
-![image](https://user-images.githubusercontent.com/124502981/221389446-ce63a111-18ab-4a88-be86-8bdbf4168659.png)
+Login
+
+![image](https://user-images.githubusercontent.com/124502981/221390295-a45d7f9f-94e8-4b3c-9b99-d2264267bb8b.png)
+
+Produk
+![image](https://user-images.githubusercontent.com/124502981/221390315-c04b4b22-f032-4b03-b0b9-00ffa3fab783.png)
